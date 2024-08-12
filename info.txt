@@ -1,1 +1,2 @@
-npx cypress run --record --key ff6fbd77-15fc-4541-98dc-a45c8dc903ad
+  npx cypress run --record --key ff6fbd77-15fc-4541-98dc-a45c8dc903ad
+  npx cypress run --record --key ff6fbd77-15fc-4541-98dc-a45c8dc903ad
